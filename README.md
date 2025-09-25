@@ -29,12 +29,12 @@ Modern, reusable React components
 
 </td> <td align="center" width="33%">
 🤖 ML Dashboard
-https://img.shields.io/badge/%F0%9F%9A%80_ML_Dashboard-00CED1?style=for-the-badge
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_ML_Dashboard-00CED1?style=for-the-badge">
 Interactive machine learning interface
 
 </td> <td align="center" width="33%">
 🌐 Full-Stack App
-https://img.shields.io/badge/%F0%9F%92%AB_Full_Stack-9D4EDD?style=for-the-badge
+<img src="https://img.shields.io/badge/%F0%9F%92%AB_Full_Stack-9D4EDD?style=for-the-badge" >
 Complete web application suite
 
 </td> </tr> </table></div>
@@ -59,24 +59,24 @@ console.log("Let's create something amazing together! 🚀");
 </div>
 🌈 Connect With Me
 <div align="center"><!-- Animated Social Links --><div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-https://img.shields.io/badge/GitHub-%E2%AD%90_Star_My_Work-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-%F0%9F%91%94_Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Website-%F0%9F%8C%90_Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Email-%F0%9F%93%A7_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<img src="https://img.shields.io/badge/GitHub-%E2%AD%90_Star_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" >
+<img src="https://img.shields.io/badge/LinkedIn-%F0%9F%91%94_Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+<img src="https://img.shields.io/badge/Website-%F0%9F%8C%90_Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/Email-%F0%9F%93%A7_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 </div></div>
 🎪 Fun Stats & Metrics
 <div align="center"><!-- Fun Metrics --><table align="center"> <tr> <td align="center">
 🏆 Coding Streak
-https://img.shields.io/badge/Days_Coding-150+-00CED1?style=for-the-badge
+<img src="https://img.shields.io/badge/Days_Coding-150+-00CED1?style=for-the-badge">
 
 </td> <td align="center">
 📚 Projects Completed
-https://img.shields.io/badge/Projects-25+-FF6B9D?style=for-the-badge
+<img src="https://img.shields.io/badge/Projects-25+-FF6B9D?style=for-the-badge">
 
 </td> <td align="center">
 🌙 Coffee Consumed
-https://img.shields.io/badge/Coffee-%E2%88%9E-9D4EDD?style=for-the-badge
+<img src="https://img.shields.io/badge/Coffee-%E2%88%9E-9D4EDD?style=for-the-badge">
 
 </td> </tr> </table><!-- Visitor Counter --><div align="center" style="margin-top: 30px;">
 🌟 Cosmic Visitors
@@ -92,6 +92,6 @@ https://img.shields.io/badge/Coffee-%E2%88%9E-9D4EDD?style=for-the-badge
 <div align="center"><!-- Footer Animation --><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="Coding Footer" />
 Made with ❤️, ☕, and 🎵 by Dev Gondaliya
 
-https://img.shields.io/github/last-commit/Web-Dev-With-Dev/Web-Dev-With-Dev?color=FF6B9D&label=Last%2520Update&style=for-the-badge
+<img src="https://img.shields.io/github/last-commit/Web-Dev-With-Dev/Web-Dev-With-Dev?color=FF6B9D&label=Last%2520Update&style=for-the-badge" >
 
 </div>
