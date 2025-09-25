@@ -24,7 +24,7 @@
 🌟 Featured Projects
 <div align="center"><!-- Project Cards with Hover Effects --><table align="center"> <tr> <td align="center" width="33%">
 🎨 UI Component Library
-https://img.shields.io/badge/%F0%9F%94%AE_React_Components-FF6B9D?style=for-the-badge
+<img src="https://img.shields.io/badge/%F0%9F%94%AE_React_Components-FF6B9D?style=for-the-badge" >
 Modern, reusable React components
 
 </td> <td align="center" width="33%">
