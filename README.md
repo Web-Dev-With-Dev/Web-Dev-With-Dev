@@ -37,8 +37,9 @@
 🌐 Connect With Me
 <div align="center"><a href="https://github.com/Web-Dev-With-Dev"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:24csdev043@ldce.ac.in"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/dev-gondaliya"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://dev-indol-nu.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a></div>
 💻 Code Philosophy
-python
+
 class DevGondaliya:
+
     def __init__(self):
         self.name = "Dev Gondaliya"
         self.role = "Full-Stack Developer & AI Enthusiast"
