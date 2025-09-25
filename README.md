@@ -78,20 +78,41 @@ class DevGondaliya:
 dev = DevGondaliya()
 print(dev.say_hi())
 📊 Development Activity
-<div align="center"><!-- Snake eating contributions --><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"> </picture></div>
-🎉 Fun Facts & Quick Stats
 <div align="center">
+
+<!-- Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+---
+
+## 🎉 Fun Facts & Quick Stats
 💡 "Turning coffee into code, ideas into reality" ☕→💻
 
-<table> <tr> <td align="center"> 🌟 <strong>Favorite Language</strong><br/> Python 🐍 </td> <td align="center"> ⚡ <strong>Superpower</strong><br/> Debugging 🔍 </td> <td align="center"> 🎯 <strong>Focus</strong><br/> AI/ML Applications 🤖 </td> <td align="center"> 🚀 <strong>Dream</strong><br/> Tech Innovation 💡 </td> </tr> </table><!-- Visitor Counter --><img src="https://komarev.com/ghpvc/?username=Web-Dev-With-Dev&style=flat-square&color=blueviolet" alt="Visitor Counter" /></div>
-<div align="center">
-✨ "Building Tomorrow's Technology Today" ✨
+<table>
+  <tr>
+    <td align="center">🌟 <strong>Favorite Language</strong><br/>Python 🐍</td>
+    <td align="center">⚡ <strong>Superpower</strong><br/>Debugging 🔍</td>
+    <td align="center">🎯 <strong>Focus</strong><br/>AI/ML Applications 🤖</td>
+    <td align="center">🚀 <strong>Dream</strong><br/>Tech Innovation 💡</td>
+  </tr>
+</table>
+
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=Web-Dev-With-Dev&style=flat-square&color=blueviolet" alt="Visitor Counter" />
+
+---
+
+✨ "Building Tomorrow's Technology Today" ✨  
 <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200" alt="Magic Sparkles" />
-Feel free to explore my repositories, contribute, or reach out for collaborations!
 
-⭐ Star my repos if you find them helpful! ⭐
+Feel free to explore my repositories, contribute, or reach out for collaborations!  
+⭐ Star my repos if you find them helpful! ⭐  
 
-Made with ❤️ and ☕ by Dev Gondaliya
+Made with ❤️ and ☕ by **Dev Gondaliya**  
 
 <sub>Last updated: September 2024 📅</sub>
 
