@@ -115,6 +115,6 @@ Feel free to explore my repositories, contribute, or reach out for collaboration
 
 Made with ❤️ and ☕ by **Dev Gondaliya**  
 
-<sub>Last updated: September 2024 📅</sub>
+<sub>Last updated: September 2025 📅</sub>
 
 </div>
