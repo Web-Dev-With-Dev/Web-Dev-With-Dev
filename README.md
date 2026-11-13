@@ -146,6 +146,11 @@ mindset: "Don't just use tools — build them from first principles."
 
   <br/><br/>
 
+  <!-- Isometric Commit Calendar -->
+  <img src="metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%" />
+
+  <br/><br/>
+
   <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
