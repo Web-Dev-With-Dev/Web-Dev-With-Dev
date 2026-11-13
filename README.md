@@ -17,6 +17,7 @@
     <a href="https://github.com/Web-Dev-With-Dev?tab=followers"><b>Followers</b></a> &nbsp;•&nbsp;
     <a href="https://dev-indol-nu.vercel.app/"><b>Portfolio</b></a> &nbsp;•&nbsp;
     <a href="https://linkedin.com/in/dev-gondaliya"><b>LinkedIn</b></a> &nbsp;•&nbsp;
+    <a href="https://leetcode.com/u/DEV_GONDALIYA/"><b>LeetCode</b></a> &nbsp;•&nbsp;
     <a href="mailto:gondaliyadev71@gmail.com"><b>Email</b></a>
   </p>
 
@@ -148,6 +149,13 @@ mindset: "Don't just use tools — build them from first principles."
 
   <!-- Isometric Commit Calendar -->
   <img src="https://raw.githubusercontent.com/Web-Dev-With-Dev/Web-Dev-With-Dev/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%" />
+
+  <br/><br/>
+
+  <!-- LeetCode Stats -->
+  <a href="https://leetcode.com/u/DEV_GONDALIYA/">
+    <img src="https://raw.githubusercontent.com/Web-Dev-With-Dev/Web-Dev-With-Dev/main/metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="100%" />
+  </a>
 
   <br/><br/>
 

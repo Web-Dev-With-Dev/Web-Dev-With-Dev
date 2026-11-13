@@ -26,3 +26,14 @@ jobs:
           plugin_isocalendar_duration: half-year
           committer_message: "chore: update isometric calendar [skip ci]"
 
+      - name: LeetCode stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: DEV_GONDALIYA
+          plugin_leetcode_sections: solved, skills, recent
+          committer_message: "chore: update leetcode metrics [skip ci]"
+
