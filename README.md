@@ -136,17 +136,17 @@ mindset: "Don't just use tools — build them from first principles."
   <table border="0">
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Web-Dev-With-Dev&show_icons=false&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=c0caf5&bg_color=0f141c" alt="Dev's GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=Web-Dev-With-Dev&show_icons=false&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=c0caf5&bg_color=0f141c" alt="Dev's GitHub Stats" />
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-With-Dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=c0caf5&bg_color=0f141c&langs_count=8" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Web-Dev-With-Dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=c0caf5&bg_color=0f141c&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Web-Dev-With-Dev&theme=tokyonight&hide_border=true&background=0f141c&stroke=00F0FF&ring=00F0FF&fire=FF6B9D&currStreakLabel=00F0FF" alt="GitHub Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Web-Dev-With-Dev&theme=tokyonight&hide_border=true&background=0f141c&stroke=00F0FF&ring=00F0FF&fire=FF6B9D&currStreakLabel=00F0FF" alt="GitHub Streak" />
 
   <br/><br/>
 
