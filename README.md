@@ -134,13 +134,13 @@ mindset: "Don't just use tools — build them from first principles."
 
 <div align="center">
 
-  ![GitHub Stats Card](https://ghstats.dev/api/card?username=Web-Dev-With-Dev&theme=midnight_sakura&hide_border=true&hide_title=true&border_radius=50)
+  <p align="center">
+    <img src="https://ghstats.dev/api/card?username=Web-Dev-With-Dev&theme=midnight_sakura&hide_border=true&hide_title=true&border_radius=50" alt="GitHub Stats Card" />
+    &nbsp;&nbsp;
+    <img src="https://ghstats.dev/api/langs?username=Web-Dev-With-Dev&theme=midnight_sakura&max_langs=12&layout=donut_vertical" alt="Top Languages" />
+  </p>
 
-  <br/><br/>
-
-  ![Top Languages](https://ghstats.dev/api/langs?username=Web-Dev-With-Dev&theme=midnight_sakura&max_langs=12&layout=donut_vertical)
-
-  <br/><br/>
+  <br/>
 
   <img width="100%" src="https://streak-stats.demolab.com/?user=Web-Dev-With-Dev&theme=tokyonight&hide_border=true&background=0f141c&stroke=00F0FF&ring=00F0FF&fire=FF6B9D&currStreakLabel=00F0FF" alt="GitHub Streak" />
 
