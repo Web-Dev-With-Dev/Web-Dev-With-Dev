@@ -133,18 +133,14 @@ mindset: "Don't just use tools — build them from first principles."
 ## GitHub Analytics & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=Web-Dev-With-Dev&show_icons=false&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=c0caf5&bg_color=0f141c" alt="Dev's GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Web-Dev-With-Dev&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=c0caf5&bg_color=0f141c&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=Web-Dev-With-Dev&theme=midnight_sakura&hide_border=true&hide_title=true&border_radius=50)
+
+  <br/><br/>
+
+  ![Top Languages](https://ghstats.dev/api/langs?username=Web-Dev-With-Dev&theme=midnight_sakura&max_langs=12&layout=donut_vertical)
+
+  <br/><br/>
 
   <img width="100%" src="https://streak-stats.demolab.com/?user=Web-Dev-With-Dev&theme=tokyonight&hide_border=true&background=0f141c&stroke=00F0FF&ring=00F0FF&fire=FF6B9D&currStreakLabel=00F0FF" alt="GitHub Streak" />
 
