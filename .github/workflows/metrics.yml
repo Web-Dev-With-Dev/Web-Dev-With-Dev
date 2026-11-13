@@ -37,3 +37,14 @@ jobs:
           plugin_leetcode_sections: solved, skills, recent
           committer_message: "chore: update leetcode metrics [skip ci]"
 
+      - name: WakaTime stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          committer_message: "chore: update wakatime metrics [skip ci]"
+

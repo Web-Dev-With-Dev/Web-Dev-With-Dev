@@ -159,6 +159,11 @@ mindset: "Don't just use tools — build them from first principles."
 
   <br/><br/>
 
+  <!-- WakaTime Stats -->
+  <img src="https://raw.githubusercontent.com/Web-Dev-With-Dev/Web-Dev-With-Dev/main/metrics.plugin.wakatime.svg" alt="WakaTime Stats" width="100%" />
+
+  <br/><br/>
+
   <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
