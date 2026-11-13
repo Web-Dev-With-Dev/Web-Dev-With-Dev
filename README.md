@@ -147,7 +147,7 @@ mindset: "Don't just use tools — build them from first principles."
   <br/><br/>
 
   <!-- Isometric Commit Calendar -->
-  <img src="metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%" />
+  <img src="https://raw.githubusercontent.com/Web-Dev-With-Dev/Web-Dev-With-Dev/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%" />
 
   <br/><br/>
 

@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at midnight UTC
+    - cron: "0 */6 * * *" # Runs every 6 hours automatically
   workflow_dispatch:
   push:
     branches:
@@ -24,3 +24,5 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          committer_message: "chore: update isometric calendar [skip ci]"
+
